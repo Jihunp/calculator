@@ -1,0 +1,42 @@
+.bg-gray {
+  background-color: gray;
+}
+.bg-black{
+  background-color: black;
+}
+
+.text-white {
+  color: white;
+}
+.h-50{
+  height: 50px;
+}
+.h-400 {
+  height: 400px;
+}
+.w-200 {
+  width: 200px;
+}
+.w-250 {
+  width: 250px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+.mx-auto {
+  margin: auto;
+}
+
+.p-relative {
+  position: relative;
+}
+.p-absolute {
+  position: absolute;
+}
+.b-0 {
+  bottom: 0;
+}
+.r-0 {
+  right: 0;
+}
