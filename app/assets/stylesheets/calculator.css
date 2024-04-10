@@ -1,42 +1,27 @@
-.bg-gray {
-  background-color: gray;
-}
-.bg-black{
+.bg-black {
   background-color: black;
 }
-
+.bg-lightgray {
+  background-color: lightgray;
+}
 .text-white {
   color: white;
 }
-.h-50{
-  height: 50px;
+.h-20 {
+  height: 20px;
 }
-.h-400 {
-  height: 400px;
+.h-200 {
+  height: 200px;
 }
-.w-200 {
-  width: 200px;
+.w-120 {
+  width: 120px;
 }
-.w-250 {
-  width: 250px;
-}
-
-.mt-10 {
-  margin-top: 10px;
+.w-150 {
+  width: 150px;
 }
 .mx-auto {
   margin: auto;
 }
-
-.p-relative {
-  position: relative;
-}
-.p-absolute {
-  position: absolute;
-}
-.b-0 {
-  bottom: 0;
-}
-.r-0 {
-  right: 0;
+.p-10 {
+  padding: 10px;
 }
