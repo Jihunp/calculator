@@ -25,3 +25,51 @@
 .p-10 {
   padding: 10px;
 }
+
+.d-inline-block {
+  display: inline-block;
+}
+
+.mt-2 {
+  margin-top: 2px;
+}
+
+.maplestory-button {
+  background: linear-gradient(
+    0deg,
+    rgba(76, 143, 6, 1) 0%,
+    rgba(76, 143, 6, 1) 35%,
+    rgba(176, 235, 41, 1) 55%,
+    rgba(176, 235, 41, 1) 100%
+  );
+  text-shadow: rgba(88, 163, 0, 1) 1px 1px 1px, rgba(88, 163, 0, 1) 1px 0px 1px,
+    rgba(88, 163, 0, 1) -1px 0px 1px, rgba(88, 163, 0, 1) -1px -1px 1px,
+    rgba(88, 163, 0, 1) 0px -1px 1px, rgba(88, 163, 0, 1) 0px 1px 1px;
+  color: white;
+  border-radius: 5px;
+  border: 0px;
+  padding-top: 2px;
+}
+
+.maplestory-button-border {
+  background: linear-gradient(
+    0deg,
+    rgba(76, 143, 6, 1) 0%,
+    rgba(76, 143, 6, 1) 35%,
+    rgba(176, 235, 41, 1) 55%,
+    rgba(176, 235, 41, 1) 100%
+  );
+  padding: 2px;
+  border-radius: 5px;
+  border: 1px solid rgba(76, 143, 6, 1);
+}
+
+.maplestory-button:hover:active {
+  background: linear-gradient(
+    180deg,
+    rgba(76, 143, 6, 1) 0%,
+    rgba(76, 143, 6, 1) 35%,
+    rgba(176, 235, 41, 1) 55%,
+    rgba(176, 235, 41, 1) 100%
+  );
+}
